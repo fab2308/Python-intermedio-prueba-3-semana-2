@@ -1,4 +1,4 @@
-#Crear una clase personalizada para cálculos básicos sobre un rectángulo.
+#Crear una clase personalizada para un cuadrado.
 
 class Cuadrado:
     def __init__(self, lado):
